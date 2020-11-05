@@ -1,24 +1,16 @@
-# README
+# sampleAPI
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+* json形式でPOST
+ {"user": {
+   "user_id":"1",
+    "name":"Steven",
+    "title":"タイトル",
+    "text":"テキストテキスト"
+  }
+  }
 
-* Ruby version
+* 拡張ツール
+https://chrome.google.com/webstore/detail/restlet-client-rest-api-t/aejoelaoggembcahagimdiliamlcdmfm?hl=ja
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
